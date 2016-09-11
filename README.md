@@ -9,7 +9,8 @@
 
 
 #####Start Project:
-1. git clone 
+1. git clone https://github.com/aerodc/dkexerice.git
+2. enter project dkexerice
 2. npm install
 3. bower install
 4. node server.js
