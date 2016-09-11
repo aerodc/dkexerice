@@ -1,4 +1,4 @@
-#### This is an app dev exercise based on manipulation the data set of US Census.
+#### This is an app dev exercice based on manipulation the data set of US Census.
 
 
 
